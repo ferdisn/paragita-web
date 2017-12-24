@@ -17,6 +17,8 @@
 
 <?php include 'statistics.php'; ?>
 
+<?php include 'testimonies.php'; ?>
+
 <?php include 'coaches_front.php'; ?>
 
 </article>
