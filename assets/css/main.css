@@ -1984,11 +1984,12 @@
 		}
 
 			ul.featured-icons li .icon {
-				/*display: inline-block;*/
+				display: inline-block;
 				font-size: 3.25em;
 				height: 1.25em;
 				line-height: 1.25em;
 				width: 1em;
+				
 			}
 			
 				ul.featured-icons li .icon span.label-long {
@@ -2782,13 +2783,14 @@
 			}
 
 				ul.featured-icons li {
-					display: inline-block;
+					display: block;
 					float: none;
 					width: auto;
 				}
 
 					ul.featured-icons li .icon {
-						font-size: 4em;
+						font-size: 2em;
+						/*font-size: 0.5vw;*/
 						width: 1.25em;
 					}
 

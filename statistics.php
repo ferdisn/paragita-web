@@ -1,41 +1,131 @@
-					<!-- One -->
-						<section class="wrapper style2 container special-alt">
-<div style="opacity: 0.35; font-size:3.25em">
-<span class="icon fa-graduation-cap"><span class=""> 34 tahun</span></span>
-</div>
-<div style="opacity: 0.35; font-size:3.25em">
-<span class="icon fa-graduation-cap"><span class=""> 34 tahun</span></span>
-</div>
-<div style="opacity: 0.35; font-size:3.25em">
-<span class="icon fa-graduation-cap"><span class=""> 34 tahun</span></span>
-</div>
-<div style="opacity: 0.35; font-size:3.25em">
-<span class="icon fa-graduation-cap"><span class=""> 34 tahun</span></span>
-</div>
-									<ul class="featured-icons">
-										<li><span class="icon fa-graduation-cap"><span class="" style="font-size:1em;"> 34 tahun</span></span></li>
-										<li><span class="icon fa-music"><span class=""> xxx penyanyi</span></span></li>
-										<li><span class="icon fa-briefcase"><span class="label-long"> 250&#43; kerja sama profesional</span></span></li>
-										<li><span class="icon fa-trophy"><span class=""> xx penghargaan</span></span></li>
-									</ul>
-							<div class="row 50%">
-								<div class="8u 12u(narrower)">
+<!-- One -->
+<section class="wrapper style2 container special-alt" style="text-align:center;">
+	<!-- 
+		<div style="font-size:3.25em;padding-bottom:0.5em;display:block;">
+		<div style="float:left; width:1.5em;">
+			<span class="icon fa-graduation-cap"></span>
+		</div>
+		<div>
+			<span class="icon"> 34 tahun</span>
+		</div>
+	</div>
+	<div style="font-size:3.25em;padding-bottom:0.5em;display:block;">
+		<div style="float:left; width:1.5em;">
+			<span class="icon fa-music"></span>
+		</div>
+		<div>
+			<span class="icon"> xxx penyanyi</span>
+		</div>
+	</div>
+	<div style="font-size:3.25em;padding-bottom:0.5em;display:block;">
+		<div style="float:left; width:1.5em;">
+			<span class="icon fa-briefcase"></span>
+		</div>
+		<div>
+			<span class="icon">250&#43; kerja sama profesional</span>
+		</div>
+	</div>
+	<div style="font-size:3.25em;padding-bottom:0.5em;display:block;">
+		<div style="float:left; width:1.5em;">
+			<span class="icon fa-trophy"></span>
+		</div>
+		<div>
+			<span class="icon">xx penghargaan</span>
+		</div>
+	</div>
+	<div style="display:block;margin:auto;">
+			<header>
+					<h2>About
+						<strong>things</strong> we do.</h2>
+				</header>
+				<p>Sed tristique purus vitae volutpat ultrices.</p>
+				<footer>
+					<ul class="buttons">
+						<li>
+							<a class="button">Find Out More</a>
+						</li>
+					</ul>
+				</footer>
+		
+	</div>
+-->
 
-									<header>
-										<h2>Behold the <strong>icons</strong> that visualize what you’re all about. or just take up space. your call bro.</h2>
-									</header>
-									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu comteger ut fermentum lorem. Lorem ipsum dolor sit amet. Sed tristique purus vitae volutpat ultrices. eu elit eget commodo. Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo.</p>
-									<footer>
-										<ul class="buttons">
-											<li><a class="button">Find Out More</a></li>
-										</ul>
-									</footer>
 
-								</div>
-								<div class="4u 12u(narrower) important(narrower)">
+	<div class="row 50%">
+		
+		<div class="4u 12u(narrower)">
 
-Text
+			<header>
+				<h2>About
+					<strong>things</strong> we do.</h2>
+			</header>
+			<p>Sed tristique purus vitae volutpat ultrices.</p>
+			<footer>
+				<ul class="buttons">
+					<li>
+						<a class="button">Find Out More</a>
+					</li>
+				</ul>
+			</footer>
 
-								</div>
-							</div>
-						</section>
+		</div>
+		<div class="8u 12u(narrower) important(narrower)">
+			
+				<div style="font-size:3.25em;padding-bottom:0.7em;display:block;">
+						<div style="float:left; width:1.5em">
+							<span class="icon fa-graduation-cap"></span>
+						</div>
+						<div>
+							<span class="icon"> 34 tahun</span>
+						</div>
+					</div>
+					<div style="font-size:3.25em;padding-bottom:0.7em;display:block;">
+						<div style="float:left; width:1.5em;">
+							<span class="icon fa-music"></span>
+						</div>
+						<div>
+							<span class="icon"> xxx penyanyi</span>
+						</div>
+					</div>
+					<div style="font-size:3.25em;padding-bottom:0.7em;display:block;">
+						<div style="float:left; width:1.5em;">
+							<span class="icon fa-briefcase"></span>
+						</div>
+						<div style="font-size:0.7em;">
+							<span class="icon" >250&#43; kerja sama profesional</span>
+						</div>
+					</div>
+					<div style="font-size:3.25em;padding-bottom:0.7em;display:block;">
+						<div style="float:left; width:1.5em;">
+							<span class="icon fa-trophy"></span>
+						</div>
+						<div>
+							<span class="icon">xx penghargaan</span>
+						</div>
+					</div>
+
+			<!--
+				<ul class="featured-icons">
+				<li>
+					<span class="icon fa-graduation-cap"> 34 tahun
+					</span>
+
+				</li>
+				<li>
+					<span class="icon fa-music"> xxx penyanyi
+					</span>
+				</li>
+				<li>
+					<span class="icon fa-briefcase"> 250&#43; kerja sama profesional
+					</span>
+				</li>
+				<li>
+					<span class="icon fa-trophy"> xx penghargaan
+					</span>
+				</li>
+			</ul> 
+		-->
+
+		</div>
+	</div>
+</section>
