@@ -59,7 +59,7 @@
 				<h2>About
 					<strong>things</strong> we do.</h2>
 			</header>
-			<p>Sed tristique purus vitae volutpat ultrices.</p>
+			<p>Some of our statistics</p>
 			<footer>
 				<ul class="buttons">
 					<li>
