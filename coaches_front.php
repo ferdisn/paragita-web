@@ -9,7 +9,7 @@
 								<div class="6u 12u(narrower)">
 
 									<section>
-										<a href="#" class="image featured"><img src="images/aning.jpg" alt="" /></a>
+										<a class="image featured"><img src="images/aning.jpg" alt="" /></a>
 										<header>
 											<h3>Aning Katamsi</h3>
 										</header>
@@ -20,7 +20,7 @@
 								<div class="6u 12u(narrower)">
 
 									<section>
-										<a href="#" class="image featured"><img src="images/mona.jpg" alt="" /></a>
+										<a class="image featured"><img src="images/mona.jpg" alt="" /></a>
 										<header>
 											<h3>Ramona Unsulangi</h3>
 										</header>
@@ -33,7 +33,7 @@
 								<div class="6u 12u(narrower)">
 
 									<section>
-										<a href="#" class="image featured"><img src="images/adji.jpg" alt="" /></a>
+										<a class="image featured"><img src="images/adji.jpg" alt="" /></a>
 										<header>
 											<h3>Barkah Adji Kasyono</h3>
 										</header>
@@ -44,7 +44,7 @@
 								<div class="6u 12u(narrower)">
 
 									<section>
-										<a href="#" class="image featured"><img src="images/nyonyon.jpg" alt="" /></a>
+										<a class="image featured"><img src="images/nyonyon.jpg" alt="" /></a>
 										<header>
 											<h3>Agus Yuwono</h3>
 										</header>
